@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BMI330
+D Accelerometer, Gyroscope, Temperature, 3 Axis Sensor IC, I3C, SPI Output
+K
+F https://www.digikey.ph/en/products/detail/bosch-sensortec/BMI330/26795906?msockid=3bdc366bbe0663d83c1223c0bf3662a6
+$ENDCMP
+#
+#End Doc Library
