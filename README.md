@@ -1,7 +1,7 @@
-V1.
+VI.
 
-STM32 based flight computer.
+STM32-based flight computer.
 
-Designed using KiCad & STM32CubeIDE
+Designed using KiCad & STM32CubeIDE.
 
-Designed by Anish Agarwal & Aidan Gonzales
+Designed by Anish Agarwal & Aidan Gonzales.
